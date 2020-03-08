@@ -7,11 +7,6 @@
 
 [![NPM Shield][npm-shield]][npm-package]
 
-## WIP
-
-This is a work in progress. Please help us make this theme better, if you find
-something wrong open an issue [here][github-issues]. Thank you!
-
 ## About
 
 A solarized dark theme for [Node-RED][node-red].
@@ -74,7 +69,6 @@ Reload the Node-RED page on the web browser.
 
 [commits-shield]: https://img.shields.io/github/commit-activity/y/node-red-contrib-themes/solarized-dark.svg
 [commits]: https://github.com/node-red-contrib-themes/solarized-dark/commits/master
-[github-issues]: https://github.com/node-red-contrib-themes/solarized-dark/issues/new
 [last-commit-shield]: https://img.shields.io/github/last-commit/node-red-contrib-themes/solarized-dark.svg
 [license]: https://github.com/node-red-contrib-themes/solarized-dark/blob/master/LICENSE
 [license-shield]: https://img.shields.io/github/license/node-red-contrib-themes/solarized-dark.svg

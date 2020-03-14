@@ -1930,6 +1930,10 @@ color: var(--Solarized-Base0);
   color: var(--Solarized-Base1) !important;
 }
 
+.rpi-gpio-pinTable {
+  color: var(--Solarized-Base01);
+}
+
 .sidebar-footer-button {
   color: var(--Solarized-Base1) !important;
   background-color: var(--Solarized-Base02);

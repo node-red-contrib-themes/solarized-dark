@@ -1913,7 +1913,7 @@ color: var(--Solarized-Base0);
 }
 
 .red-ui-typedInput-options a:hover {
-  background-color: var(--Solarized-Base03)
+  background-color: var(--Solarized-Base03);
 }
 
 .red-ui-workspace-chart-background {
@@ -2098,7 +2098,7 @@ color: var(--Solarized-Base0);
 .ui-widget-content {
   border-color: var(--Solarized-Base03);
   background: var(--Solarized-Base02);
-  color: var(--Solarized-Base0)
+  color: var(--Solarized-Base0);
 }
 
 .ui-state-active,

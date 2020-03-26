@@ -269,7 +269,7 @@
 }
 
 .red-ui-diff-list-flow-title:hover {
-  color: var(--Solarized-Base02);
+  background-color: var(--Solarized-Base02);
 }
 
 .red-ui-diff-list-node td,

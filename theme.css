@@ -922,6 +922,15 @@
   color: #93A1A1;
 }
 
+.red-ui-help a {
+  color: #268bd2;
+}
+
+.red-ui-help a:hover,
+.red-ui-help a:focus {
+  color: #268bd2;
+}
+
 .red-ui-help dl.message-properties {
   border-color: #002B36;
 }

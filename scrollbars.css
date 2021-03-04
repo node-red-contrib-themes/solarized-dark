@@ -1,0 +1,26 @@
+/*
+  solarized-dark - https://github.com/node-red-contrib-themes/solarized-dark
+*/
+
+.red-ui-editor {
+  scrollbar-color: #93A1A1 transparent;
+  scrollbar-width: initial;
+}
+
+::-webkit-scrollbar {
+  width: initial;
+}
+
+::-webkit-scrollbar-corner {
+  background-color: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #93A1A1;
+  border-radius: 20px;
+  border: 3px solid #002B36;
+}
+
+::-webkit-scrollbar-track {
+  background-color: transparent;
+}

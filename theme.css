@@ -875,6 +875,10 @@
   fill: #073642 !important;
 }
 
+.red-ui-flow-node-status-label {
+  fill: #93A1A1;
+}
+
 .red-ui-flow-node-status-ring-blue {
   fill: #073642;
 }

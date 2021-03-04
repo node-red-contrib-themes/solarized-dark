@@ -25,5 +25,10 @@
   "bugs": {
     "url": "https://github.com/node-red-contrib-themes/solarized-dark/issues"
   },
-  "homepage": "https://github.com/node-red-contrib-themes/solarized-dark#readme"
+  "homepage": "https://github.com/node-red-contrib-themes/solarized-dark#readme",
+  "node-red": {
+    "plugins": {
+      "solarized-dark": "theme.js"
+    }
+  }
 }

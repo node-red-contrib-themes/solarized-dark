@@ -2052,12 +2052,12 @@ color: #839496;
 }
 
 .red-ui-treeList-label.selected .red-ui-info-outline-item-controls {
-  background-color: #073642;
+  background-color: #002B36;
 }
 
 .red-ui-treeList-label.selected,
 .red-ui-treeList-label.selected .red-ui-treeList-sublabel-text {
-  background-color: #073642;
+  background-color: #002B36;
   color: #839496;
 }
 

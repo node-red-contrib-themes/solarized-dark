@@ -133,15 +133,15 @@
 * Grip on separators
 */
 .red-ui-panels-separator {
-  border-top-color: #002B36;
-  border-bottom-color: #002B36;
+  border-top-color: #586e75;
+  border-bottom-color: #586e75;
   background: #002B36 url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAFCAYAAAAHQL+kAAAAIElEQVQ4T2NkGCaAsXnKtP/DwS+jHhlsscg42BxErnsA2/MICnoVuYcAAAAASUVORK5CYII=") no-repeat 50% 50%;
 }
 
 .red-ui-panels.red-ui-panels-horizontal>.red-ui-panels-separator {
   background: #002B36 url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAyAQMAAACu3oOzAAAAAXNSR0IB2cksfwAAAAlwSFlzAAALEwAACxMBAJqcGAAAAAZQTFRFAAAAg5SWSlVleQAAAAJ0Uk5TAP9bkSK1AAAADUlEQVR4nGMoYKA5BABGYBXhGD2hFwAAAABJRU5ErkJggg==") no-repeat 50% 50%;
-  border-left-color: #002B36;
-  border-right-color: #002B36;
+  border-left-color: #586e75;
+  border-right-color: #586e75;
 }
 
 #red-ui-sidebar-separator {
@@ -150,7 +150,7 @@
 
 .red-ui-tray-resize-handle {
   background: #002B36 url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAyAQMAAACu3oOzAAAAAXNSR0IB2cksfwAAAAlwSFlzAAALEwAACxMBAJqcGAAAAAZQTFRFAAAAg5SWSlVleQAAAAJ0Uk5TAP9bkSK1AAAADUlEQVR4nGMoYKA5BABGYBXhGD2hFwAAAABJRU5ErkJggg==") no-repeat 50% 50%;
-  border-left-color: #002B36;
+  border-left-color: #586e75;
 }
 
 /*
@@ -196,11 +196,11 @@ button.red-ui-typedInput-option-trigger .red-ui-typedInput-option-label img {
 * jQuery ui widgets
 */
 .ui-widget.ui-widget-content {
-  border-color: #002B36;
+  border-color: #586e75;
 }
 
 .ui-widget-content {
-  border-color: #002B36;
+  border-color: #586e75;
   background: #073642;
   color: #839496;
 }
@@ -221,5 +221,5 @@ ul.red-ui-sidebar-node-config-list .red-ui-palette-label {
 }
 
 ul.red-ui-sidebar-node-config-list .red-ui-palette-node {
-  border-color: #002B36;
+  border-color: #586e75;
 }

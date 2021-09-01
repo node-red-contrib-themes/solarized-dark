@@ -110,7 +110,7 @@
 }
 
 .nr-db-sb-list-handle {
-  color:  #839496 !important;
+  color: #839496 !important;
 }
 
 .nr-db-sb-list-header,
@@ -190,7 +190,7 @@ button.red-ui-typedInput-option-trigger .red-ui-typedInput-option-label img {
 .red-ui-icon-picker i.spinner {
   background: url(/red/images/spin.svg) no-repeat 50% 50%;
   filter: brightness(0) saturate(100%) invert(60%) sepia(7%) saturate(540%) hue-rotate(138deg) brightness(94%) contrast(92%);
-  }
+}
 
 /*
 * jQuery ui widgets
@@ -213,9 +213,8 @@ button.red-ui-typedInput-option-trigger .red-ui-typedInput-option-label img {
 }
 
 /* 
-  Config nodes
+* Config nodes
 */
-
 ul.red-ui-sidebar-node-config-list .red-ui-palette-label {
   color: #93A1A1;
 }

@@ -176,6 +176,23 @@ button.red-ui-typedInput-option-trigger .red-ui-typedInput-option-label img {
   filter: brightness(0) saturate(100%) invert(60%) sepia(7%) saturate(540%) hue-rotate(138deg) brightness(94%) contrast(92%);
 }
 
+.red-ui-icons-flow {
+  filter: brightness(0) saturate(100%) invert(60%) sepia(7%) saturate(540%) hue-rotate(138deg) brightness(94%) contrast(92%);
+}
+
+.red-ui-treeList-spinner {
+  filter: brightness(0) saturate(100%) invert(60%) sepia(7%) saturate(540%) hue-rotate(138deg) brightness(94%) contrast(92%);
+}
+
+.red-ui-editor i.spinner,
+.red-ui-editor-dialog i.spinner,
+.red-ui-menu i.spinner,
+.red-ui-popover i.spinner,
+.red-ui-typedInput-options i.spinner,
+.red-ui-icon-picker i.spinner {
+  filter: brightness(0) saturate(100%) invert(60%) sepia(7%) saturate(540%) hue-rotate(138deg) brightness(94%) contrast(92%);
+}
+
 /*
 * jQuery ui widgets
 */

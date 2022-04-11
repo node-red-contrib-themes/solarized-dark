@@ -75,11 +75,10 @@ $form-input-background: $secondary-background;
 $form-input-background-disabled: $secondary-background-disabled;
 $form-button-background: $secondary-background-selected;
 
-$form-tips-background: #ffe;
+$form-tips-background: $primary-background;
 
 
 $text-editor-color: #93A1A1;//#00f;
-$text-editor-background: $secondary-background;
 $text-editor-color-disabled: $secondary-text-color-inactive;
 $text-editor-background-disabled: $secondary-background-disabled;
 $text-editor-gutter-background: #f6f6f6;//#ee0;
@@ -194,7 +193,7 @@ $view-lasso-fill: rgba(20,125,255,0.1);
 
 $view-background: $secondary-background;
 $view-select-mode-background: $secondary-background-selected;
-$view-grid-color: #002B36;
+$view-grid-color: $primary-background;
 
 $node-label-color: #333;
 $node-port-label-color: #888;
@@ -238,7 +237,7 @@ $link-disabled-color: #ccc;
 $link-link-active-color: #ff7f0e;
 $link-unknown-color: #f00;
 
-$clipboard-textarea-background: #002B36;
+$clipboard-textarea-background: $primary-background;
 
 
 $deploy-button-color: #eee;
